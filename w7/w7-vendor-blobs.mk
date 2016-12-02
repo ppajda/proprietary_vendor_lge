@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/lge/w7/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/lge/w7/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/lge/w7/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_1.fw \
     vendor/lge/w7/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/lge/w7/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/lge/w7/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
@@ -85,6 +86,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/lib/libmmcamera_imx119.so:system/lib/libmmcamera_imx119.so \
     vendor/lge/w7/proprietary/lib/libmmcamera_imx179.so:system/lib/libmmcamera_imx179.so \
     vendor/lge/w7/proprietary/lib/libmmcamera_imx219.so:system/lib/libmmcamera_imx219.so \
+    vendor/lge/w7/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/w7/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/w7/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/w7/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
